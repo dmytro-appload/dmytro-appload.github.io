@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "studio.appload.seeds.dev",
+      "sha256_cert_fingerprints":
+      ["E4:1A:6E:C1:96:85:37:EB:F1:62:E9:56:E9:7F:37:2D:3B:77:81:FC:B6:5F:D3:D6:34:BF:B8:78:AD:F7:4B:DB"]
+    }
+  }]
